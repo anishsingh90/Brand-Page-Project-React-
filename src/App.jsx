@@ -11,7 +11,6 @@ const App = () =>{
         <li href="#">About</li>
         <li href="#">Contact</li>
       </ul>
-
       <button>Login</button>
     </nav>
   </div>
