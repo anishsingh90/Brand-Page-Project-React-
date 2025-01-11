@@ -15,7 +15,6 @@ This repository contains a **React-based brand page project** that showcases a p
 ## **Technologies Used**
 - **React**: Frontend framework for building UI components.
 - **CSS**: For styling and layout.
-- **JavaScript**: For dynamic functionality and interactions.
 
 ## **Project Setup**
 1. Clone the repository:
