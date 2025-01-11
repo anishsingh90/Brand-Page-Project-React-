@@ -12,9 +12,9 @@ const HeroSection = () =>{
                 </p>
 
                 {/* button  */}
-                <div className="hero-button">
-                    <button>Shop Now</button>
-                    <button>Category</button>
+                <div className="hero-btn">
+                    <button className='shope'>Shop Now</button>
+                    <button className='cat'>Category</button>
                 </div>
 
               <div className="shopping">
