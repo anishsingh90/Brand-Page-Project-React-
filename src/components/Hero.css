@@ -1,0 +1,37 @@
+.hero{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.hero h1{
+    font-weight: 800;
+    font-size: 108px;
+    line-height: 102px;
+}
+
+.hero p{
+    font-weight: 600;
+    color: var(--gray);
+    max-width: 400px;
+}
+
+.hero-btn{
+    display: flex;
+    gap: 40px;
+}
+
+.hero-btn button{
+    font-size: 24px;
+}
+
+.hero-content{
+    display: flex;
+    flex-direction: column;
+    gap: 36px;
+}
+
+.brand-icons{
+    display: flex;
+    gap: 20px;
+}
