@@ -1,7 +1,3 @@
-Here’s a suggested `README.md` for your GitHub repository:
-
----
-
 # **Brand Page Project (React)**
 
 This repository contains a **React-based brand page project** that showcases a professional and responsive website for a brand. The project focuses on clean design, smooth user interactions, and modern web development best practices.
@@ -37,10 +33,4 @@ This repository contains a **React-based brand page project** that showcases a p
    ```
 
 ## **Project Images**
-Here are some screenshots of the project:
 
-### **How to Add Images**
-1. Add your project images to a folder in the repository (e.g., `assets/images/`).
-2. Replace `./path/to/image.png` in the `README.md` with the actual relative path of your images.
-
-Let me know if you need further customization!
