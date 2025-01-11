@@ -2,6 +2,9 @@
 
 This repository contains a **React-based brand page project** that showcases a professional and responsive website for a brand. The project focuses on clean design, smooth user interactions, and modern web development best practices.
 
+## **Project Images**
+![img alt](https://github.com/anishsingh90/Brand-Page-Project-React-/blob/1539fbf8bc884d3d40415c2a29f0894ef2af1ad0/Project%20Image.png)
+
 ## **Features**
 - Fully responsive design for desktop, tablet, and mobile devices.
 - Smooth animations and transitions.
@@ -31,6 +34,3 @@ This repository contains a **React-based brand page project** that showcases a p
    ```bash
    npm start
    ```
-
-## **Project Images**
-
